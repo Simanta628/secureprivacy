@@ -1,9 +1,9 @@
 {
-  "name": "testlab",
+  "name": "secureprivacy",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
-  "homepage": "https://mohamedhemidi.github.io/testlab",
+  "description": "Future Imperfect by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.html",
+  "homepage": "https://simanta628.github.io/secureprivacy",
   "scripts": {
     "deploy": "gh-pages -d .",
     "test": "echo \"Error: no test specified\" && exit 1"
